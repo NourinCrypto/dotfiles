@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = nour.ismail@ledger.fr
+	name = Nour Crypto
